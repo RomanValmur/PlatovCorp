@@ -39,7 +39,7 @@ const slicedProducts = computed(() => {
 
 <style lang="scss">
 .fade-main-enter-active,
-.fade-leave-active {
+.fade-main-leave-active {
   transition: opacity 2s ease;
 }
 
